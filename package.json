@@ -1,0 +1,19 @@
+{
+  "name": "solhint-plugin-solhint-plugins",
+  "version": "1.0.0",
+  "description": "solhint plugin examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/makramkd/solhint-plugins"
+  },
+  "keywords": [
+    "solhint",
+    "plugins"
+  ],
+  "author": "Makram Kamaleddine",
+  "license": "MIT"
+}
